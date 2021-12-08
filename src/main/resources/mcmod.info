@@ -1,0 +1,16 @@
+[
+{
+  "modid": "catclient",
+  "name": "CatClient",
+  "description": "A minecraft utility mod by Huddle, XeonLyfe, VacCat",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Huddle, XeonLyfe, VacCat"],
+  "credits": "Huddle, XeonLyfe, VacCat",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
