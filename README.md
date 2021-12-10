@@ -3,6 +3,9 @@ the cool base by people for minecraft forge 1.12.2
 
 # stats (total lines)
 ![total lines](https://img.shields.io/tokei/lines/github.com/XeonLyfe/1.12.2-Client-Base)
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 
 # credits
 
