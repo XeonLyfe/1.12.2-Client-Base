@@ -9,7 +9,7 @@ public class ClickGUI extends Module {
 
 	public ClickGUI() {
 		super("ClickGUI", "menu.skeet", Category.RENDER);
-		this.setKey(Keyboard.KEY_U);
+		this.setKey(Keyboard.KEY_RSHIFT);
 	}
 	
 	@Override
